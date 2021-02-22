@@ -1,3 +1,5 @@
+#This is my views.py file :D
+
 from django.shortcuts import render
 
 # Create home HTML here. When you want to enter webpage, you send a "request".
